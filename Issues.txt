@@ -1,0 +1,1 @@
+-Quando não existe screams no banco, a tela não mostra nada.
